@@ -1,6 +1,6 @@
 # myBlog
 
-
+希望通过此项目自己搭建一个基于egg的vue SSR项目
 
 ## QuickStart
 
